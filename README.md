@@ -315,7 +315,7 @@ the `Visualizations/` directory.
 ### Q1 --- Distribution of Collision Severity in Great Britain
 
 ![Distribution of Collision Severity in Great
-Britain](Visualizations/Q1_collision_severity_distribution/Distribution_of_Collision_Severity_in_Great_Britain.png)
+Britain](EDA_Road_Collisions/Visualizations/Q1_collision_severity_distribution/Distribution_of_Collision_Severity_in_Great_Britain.png)
 
 ### Q2 --- Collision Severity Distribution by Speed Limit
 
