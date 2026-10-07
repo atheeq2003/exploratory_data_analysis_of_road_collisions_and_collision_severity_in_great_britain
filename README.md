@@ -315,137 +315,137 @@ the `Visualizations/` directory.
 ### Q1 --- Distribution of Collision Severity in Great Britain
 
 ![Distribution of Collision Severity in Great
-Britain](Visualizations/Q1_collision_severity_distribution/Distribution_of_Collision_Severity_in_Great_Britain.png)
+Britain](EDA_Road_Collisions/Visualizations/Q1_collision_severity_distribution/Distribution_of_Collision_Severity_in_Great_Britain.png)
 
 ### Q2 --- Collision Severity Distribution by Speed Limit
 
 ![Collision Severity Distribution by Speed
-Limit](Visualizations/Q2_speed_limit_and_severity/Collision_Severity_Distribution_by_Speed_Limit.png)
+Limit](EDA_Road_Collisions/Visualizations/Q2_speed_limit_and_severity/Collision_Severity_Distribution_by_Speed_Limit.png)
 
 ### Q2 --- Serious or Fatal Collision Rate by Speed Limit
 
 ![Serious or Fatal Collision Rate by Speed
-Limit](Visualizations/Q2_speed_limit_and_severity/Serious_or_Fatal_Collision_Rate_by_Speed_Limit.png)
+Limit](EDA_Road_Collisions/Visualizations/Q2_speed_limit_and_severity/Serious_or_Fatal_Collision_Rate_by_Speed_Limit.png)
 
 ### Q3 --- Collision Severity Distribution by Weather Condition
 
 ![Collision Severity Distribution by Weather
-Condition](Visualizations/Q3_weather_and_road_surface/Collision_Severity_Distribution_by_Weather_Condition.png)
+Condition](EDA_Road_Collisions/Visualizations/Q3_weather_and_road_surface/Collision_Severity_Distribution_by_Weather_Condition.png)
 
 ### Q3 --- Collision Severity Distribution by Road Surface Condition
 
 ![Collision Severity Distribution by Road Surface
-Condition](Visualizations/Q3_weather_and_road_surface/Collision_Severity_Distribution_by_Road_Surface_Condition.png)
+Condition](EDA_Road_Collisions/Visualizations/Q3_weather_and_road_surface/Collision_Severity_Distribution_by_Road_Surface_Condition.png)
 
 ### Q3 --- Serious or Fatal Collision Rate by Weather Condition
 
 ![Serious or Fatal Collision Rate by Weather
-Condition](Visualizations/Q3_weather_and_road_surface/Serious_or_Fatal_Collision_Rate_by_Weather_Condition.png)
+Condition](EDA_Road_Collisions/Visualizations/Q3_weather_and_road_surface/Serious_or_Fatal_Collision_Rate_by_Weather_Condition.png)
 
 ### Q3 --- Serious or Fatal Collision Rate by Road Surface Condition
 
 ![Serious or Fatal Collision Rate by Road Surface
-Condition](Visualizations/Q3_weather_and_road_surface/Serious_or_Fatal_Collision_Rate_by_Road_Surface_Condition.png)
+Condition](EDA_Road_Collisions/Visualizations/Q3_weather_and_road_surface/Serious_or_Fatal_Collision_Rate_by_Road_Surface_Condition.png)
 
 ### Q4 --- Collision Severity Distribution by Urban/Rural Area
 
 ![Collision Severity Distribution by Urban Rural
-Area](Visualizations/Q4_urban_rural_and_severity/Collision_Severity_Distribution_by_Urban_Rural_Area.png)
+Area](EDA_Road_Collisions/Visualizations/Q4_urban_rural_and_severity/Collision_Severity_Distribution_by_Urban_Rural_Area.png)
 
 ### Q4 --- Serious or Fatal Collision Rate by Area Type
 
 ![Serious or Fatal Collision Rate by Area
-Type](Visualizations/Q4_urban_rural_and_severity/Serious_or_Fatal_Collision_Rate_by_Area_Type.png)
+Type](EDA_Road_Collisions/Visualizations/Q4_urban_rural_and_severity/Serious_or_Fatal_Collision_Rate_by_Area_Type.png)
 
 ### Q5 --- Number of Collisions by Road Type
 
 ![Number of Collisions by Road
-Type](Visualizations/Q5_road_types_and_junctions/Number_of_Collisions_by_Road_Type.png)
+Type](EDA_Road_Collisions/Visualizations/Q5_road_types_and_junctions/Number_of_Collisions_by_Road_Type.png)
 
 ### Q5 --- Serious or Fatal Collision Rate by Road Type
 
 ![Serious or Fatal Collision Rate by Road
-Type](Visualizations/Q5_road_types_and_junctions/Serious_or_Fatal_Collision_Rate_by_Road_Type.png)
+Type](EDA_Road_Collisions/Visualizations/Q5_road_types_and_junctions/Serious_or_Fatal_Collision_Rate_by_Road_Type.png)
 
 ### Q5 --- Collision Severity Distribution by Junction Condition
 
 ![Collision Severity Distribution by Junction
-Condition](Visualizations/Q5_road_types_and_junctions/Collision_Severity_Distribution_by_Junction_Condition.png)
+Condition](EDA_Road_Collisions/Visualizations/Q5_road_types_and_junctions/Collision_Severity_Distribution_by_Junction_Condition.png)
 
 ### Q5 --- Number of Collisions by Junction Condition
 
 ![Number of Collisions by Junction
-Condition](Visualizations/Q5_road_types_and_junctions/Number_of_Collisions_by_Junction_Condition.png)
+Condition](EDA_Road_Collisions/Visualizations/Q5_road_types_and_junctions/Number_of_Collisions_by_Junction_Condition.png)
 
 ### Q5 --- Serious or Fatal Collision Rate by Junction Condition
 
 ![Serious or Fatal Collision Rate by Junction
-Condition](Visualizations/Q5_road_types_and_junctions/Serious_or_Fatal_Collision_Rate_by_Junction_Condition.png)
+Condition](EDA_Road_Collisions/Visualizations/Q5_road_types_and_junctions/Serious_or_Fatal_Collision_Rate_by_Junction_Condition.png)
 
 ### Q6 --- Collision Severity Distribution by Number of Vehicles
 
 ![Collision Severity Distribution by Number of
-Vehicles](Visualizations/Q6_vehicles_and_severity/Collision_Severity_Distribution_by_Number_of_Vehicles.png)
+Vehicles](EDA_Road_Collisions/Visualizations/Q6_vehicles_and_severity/Collision_Severity_Distribution_by_Number_of_Vehicles.png)
 
 ### Q6 --- Serious or Fatal Collision Rate by Number of Vehicles
 
 ![Serious or Fatal Collision Rate by Number of
-Vehicles](Visualizations/Q6_vehicles_and_severity/Serious_or_Fatal_Collision_Rate_by_Number_of_Vehicles.png)
+Vehicles](EDA_Road_Collisions/Visualizations/Q6_vehicles_and_severity/Serious_or_Fatal_Collision_Rate_by_Number_of_Vehicles.png)
 
 ### Q7 --- Number of Collisions by Hour of Day
 
 ![Number of Collisions by Hour of
-Day](Visualizations/Q7_time_and_day_patterns/Number_of_Collisions_by_Hour_of_Day.png)
+Day](EDA_Road_Collisions/Visualizations/Q7_time_and_day_patterns/Number_of_Collisions_by_Hour_of_Day.png)
 
 ### Q7 --- Collision Frequency by Day and Time Period
 
 ![Collision Frequency by Day and Time
-Period](Visualizations/Q7_time_and_day_patterns/Collision_Frequency_by_Day_and_Time_Period.png)
+Period](EDA_Road_Collisions/Visualizations/Q7_time_and_day_patterns/Collision_Frequency_by_Day_and_Time_Period.png)
 
 ### Q8 --- Number of Casualties by Collision Severity
 
 ![Number of Casualties by Collision
-Severity](Visualizations/Q8_casualties_and_severity/Number_of_Casualties_by_Collision_Severity.png)
+Severity](EDA_Road_Collisions/Visualizations/Q8_casualties_and_severity/Number_of_Casualties_by_Collision_Severity.png)
 
 ### Q8 --- Number of Casualties by Collision Severity --- 99th Percentile
 
 ![Number of Casualties by Collision Severity 99th
-Percentile](Visualizations/Q8_casualties_and_severity/Number_of_Casualties_by_Collision_Severity_99th_Percentile.png)
+Percentile](EDA_Road_Collisions/Visualizations/Q8_casualties_and_severity/Number_of_Casualties_by_Collision_Severity_99th_Percentile.png)
 
 ### Q8 --- Average Number of Casualties by Collision Severity
 
 ![Average Number of Casualties by Collision
-Severity](Visualizations/Q8_casualties_and_severity/Average_Number_of_Casualties_by_Collision_Severity.png)
+Severity](EDA_Road_Collisions/Visualizations/Q8_casualties_and_severity/Average_Number_of_Casualties_by_Collision_Severity.png)
 
 ### Q9 --- Top 10 Local Authority Areas by Number of Collisions
 
 ![Top 10 Local Authority Areas by Number of
-Collisions](Visualizations/Q9_geographic_collision_concentration/Top_10_Local_Authority_Areas_by_Number_of_Collisions.png)
+Collisions](EDA_Road_Collisions/Visualizations/Q9_geographic_collision_concentration/Top_10_Local_Authority_Areas_by_Number_of_Collisions.png)
 
 ### Q9 --- Collision Density Across Great Britain
 
 ![Collision Density Across Great
-Britain](Visualizations/Q9_geographic_collision_concentration/Collision_Density_Across_Great_Britain.png)
+Britain](EDA_Road_Collisions/Visualizations/Q9_geographic_collision_concentration/Collision_Density_Across_Great_Britain.png)
 
 ### Q9 --- Serious and Fatal Collision Density Across Great Britain
 
 ![Serious and Fatal Collision Density Across Great
-Britain](Visualizations/Q9_geographic_collision_concentration/Serious_and_Fatal_Collision_Density_Across_Great_Britain.png)
+Britain](EDA_Road_Collisions/Visualizations/Q9_geographic_collision_concentration/Serious_and_Fatal_Collision_Density_Across_Great_Britain.png)
 
 ### Q10 --- Most Frequently Observed Condition Combinations
 
 ![Most Frequently Observed Condition
-Combinations](Visualizations/Q10_serious_fatal_condition_combinations/Most_Frequently_Observed_Condition_Combinations.png)
+Combinations](EDA_Road_Collisions/Visualizations/Q10_serious_fatal_condition_combinations/Most_Frequently_Observed_Condition_Combinations.png)
 
 ### Q10 --- Number of Vehicles Involved in Serious and Fatal Collisions
 
 ![Number of Vehicles Involved in Serious and Fatal
-Collisions](Visualizations/Q10_serious_fatal_condition_combinations/Number_of_Vehicles_Involved_in_Serious_and_Fatal_Collisions.png)
+Collisions](EDA_Road_Collisions/Visualizations/Q10_serious_fatal_condition_combinations/Number_of_Vehicles_Involved_in_Serious_and_Fatal_Collisions.png)
 
 ### Q10 --- Serious and Fatal Collisions by Day and Time Period
 
 ![Serious and Fatal Collisions by Day and Time
-Period](Visualizations/Q10_serious_fatal_condition_combinations/Serious_and_Fatal_Collisions_by_Day_and_Time_Period.png)
+Period](EDA_Road_Collisions/Visualizations/Q10_serious_fatal_condition_combinations/Serious_and_Fatal_Collisions_by_Day_and_Time_Period.png)
 
 ## Author
 
